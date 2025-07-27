@@ -49,7 +49,7 @@ OpenStreetMap для географических данных
 Структура проекта
 
 
-financial_locations/
+final_project/
 
 ├── data/
 
