@@ -48,6 +48,7 @@ OpenStreetMap для географических данных
 
 Структура проекта
 
+
 financial_locations/
 ├── data/
 │   ├── raw/                  # Исходные данные
@@ -63,4 +64,3 @@ financial_locations/
 │   └── report.md             # Отчет
 ├── README.md                 # Описание проекта
 └── requirements.txt          # Зависимости
-
