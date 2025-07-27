@@ -51,29 +51,17 @@ OpenStreetMap для географических данных
 
 financial_locations/
 ├── data/
-
 │   ├── raw/                  # Исходные данные
-
 │   └── processed/            # Обработанные данные
-
 ├── notebooks/
-
 │   └── analysis.ipynb        # Основной анализ
-
 ├── src/
-
 │   ├── data_processing.py    # Функции обработки данных
-
 │   ├── visualization.py      # Функции визуализации
-
 │   └── analysis.py           # Функции анализа
 ├── reports/
-
 │   ├── figures/              # Графики
-
 │   └── report.md             # Отчет
-
 ├── README.md                 # Описание проекта
-
 └── requirements.txt          # Зависимости
 
