@@ -34,19 +34,21 @@ matplotlib/seaborn (графики), plotly/folium (интерактивные �
 
 final_project/
 
-├── data/                     # Исходные данные
+├── data/                     
 
-├── processed/                      # Обработанные данные
+│   ├── raw_n1/               # Исходные данные
+
+│   ├── processed/            # Обработанные данные
 
 ├── analysis.ipynb/           # Основной анализ
 
-├── src/
+├── notebooks/
 
 │   ├── data_processing.py    # Функции обработки данных
 
 │   ├── visualization.py      # Функции визуализации
 
-│   └── analysis.py           # Функции анализа
+│   └── analysis1.py           # Функции анализа
 
 ├── reports/
 
